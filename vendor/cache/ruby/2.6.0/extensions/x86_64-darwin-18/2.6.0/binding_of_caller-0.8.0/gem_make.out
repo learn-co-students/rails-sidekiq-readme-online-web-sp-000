@@ -1,0 +1,16 @@
+current directory: /Users/cookiemccormick/Documents/development/rails-sidekiq-readme-online-web-sp-000/vendor/cache/ruby/2.6.0/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+/Users/cookiemccormick/.rvm/rubies/ruby-2.6.1/bin/ruby -I /Users/cookiemccormick/.rvm/rubies/ruby-2.6.1/lib/ruby/site_ruby/2.6.0 -r ./siteconf20190516-15668-n7g5hy.rb extconf.rb
+
+current directory: /Users/cookiemccormick/Documents/development/rails-sidekiq-readme-online-web-sp-000/vendor/cache/ruby/2.6.0/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make "DESTDIR=" clean
+make: *** No rule to make target `clean'.  Stop.
+
+current directory: /Users/cookiemccormick/Documents/development/rails-sidekiq-readme-online-web-sp-000/vendor/cache/ruby/2.6.0/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make "DESTDIR="
+echo "Nada."
+Nada.
+
+current directory: /Users/cookiemccormick/Documents/development/rails-sidekiq-readme-online-web-sp-000/vendor/cache/ruby/2.6.0/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make "DESTDIR=" install
+echo "Nada."
+Nada.
