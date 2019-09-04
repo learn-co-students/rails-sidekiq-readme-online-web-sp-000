@@ -6,6 +6,7 @@ class CustomersController < ApplicationController
   end
 
   def upload
+    byebug
     LeadsWorker.perform_async(params[:leads].path)
     redirect_to customers_path
   end
